@@ -64,8 +64,17 @@ Ingeniero en Sistemas Computacionales y **Magíster en Tecnologías de la Inform
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jcuadradoh2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcuadradoh2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs">
+  <img src="https://img.shields.io/github/followers/jcuadradoh2?label=Seguidores&style=for-the-badge&logo=github&color=5b8cff&labelColor=1c2033" alt="followers">
+  <img src="https://komarev.com/ghpvc/?username=jcuadradoh2&label=Visitas%20al%20perfil&color=17c8b4&style=for-the-badge" alt="profile views">
+  <img src="https://img.shields.io/badge/Proyectos-7%20p%C3%BAblicos-c86bff?style=for-the-badge&logo=github&labelColor=1c2033" alt="projects">
+</p>
+
+<p align="center">
+  <a href="https://github.com/jcuadradoh2/agentforge"><img src="https://img.shields.io/badge/AgentForge-Java%20·%20Spring-6DB33F?style=flat&labelColor=1c2033"></a>
+  <a href="https://github.com/jcuadradoh2/jobradar-ec"><img src="https://img.shields.io/badge/JobRadar%20EC-.NET%2010-512BD4?style=flat&labelColor=1c2033"></a>
+  <a href="https://github.com/jcuadradoh2/academic-modules-showcase"><img src="https://img.shields.io/badge/Academic%20Modules-Django%20·%20React-092E20?style=flat&labelColor=1c2033"></a>
+  <a href="https://github.com/jcuadradoh2/angular-insight-dashboard"><img src="https://img.shields.io/badge/Insight-Angular%2020-DD0031?style=flat&labelColor=1c2033"></a>
+  <a href="https://github.com/jcuadradoh2/aurora-design-system"><img src="https://img.shields.io/badge/Aurora-Design%20System-5b8cff?style=flat&labelColor=1c2033"></a>
 </p>
 
 ---
